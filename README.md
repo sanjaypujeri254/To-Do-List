@@ -10,5 +10,3 @@ Run `npm run server` for the local database server.
 ## Cypress 
 Run `npm run cypress` to open cypress interface.
 
-# License
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
