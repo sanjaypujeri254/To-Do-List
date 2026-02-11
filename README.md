@@ -1,4 +1,4 @@
-# Dio Todo List Cypress
+# Todo List Cypress
 Todo list project using Angular 9 and [Cypress.io](https://cypress.io) to demonstrate E2E tests. This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.0.4.
 
 ## Development server
